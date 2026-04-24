@@ -26,18 +26,16 @@ The goal is to practice penetration testing, vulnerability assessment, and defen
 
 ## Tools:
 
-Nmap
-Wireshark
-Splunk
+- Splunk
+- Wireshark
+- Nmap
+
 
 ## 🖥️ Lab Architecture
 
-[ Mac Host ]
- ┌───┴───────────────┐
- │                   │
+<img width="641" height="381" alt="Architecture" src="https://github.com/user-attachments/assets/104f0de3-e541-4b08-87ad-6bdf523ac708" />
 
-[ Windows VM ]   [ Kali Linux VM ]
-   (Target)          (Attacker)
+
 
 
 Both VMs are configured on an internal network
