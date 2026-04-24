@@ -3,7 +3,7 @@
 This document outlines the architecture of my cybersecurity home lab, built on a macOS host using virtualization. The lab simulates an attacker-target environment with monitoring and logging capabilities.
 
 ## 🖥️ High-Level Architecture
-graph TD
+
     A[Mac Host - macOS] --> B[Hypervisor]
 
     B --> C[Windows VM (Target)]
