@@ -65,4 +65,4 @@ After this process finishes, your new Kali Linux Virtual Machine will load to th
 
 <img width="1277" height="806" alt="Screenshot 2026-04-05 at 12 59 33" src="https://github.com/user-attachments/assets/43329076-e29f-4489-886c-c56c57956744" />
 
-You now have a fully functioning Windows 11 VM running inside UTM, ready for testing, security labs, and hands-on learning.
+You now have a fully functioning Kali Linux VM running inside UTM, ready for testing, security labs, and hands-on learning.
